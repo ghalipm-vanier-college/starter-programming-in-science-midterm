@@ -1,6 +1,6 @@
 # Programming in Science - Midterm Exam - V1
 
-This template repository is the starter project for the Programming in Science Midterm Exam V1. Written in Python, and tested with Pytest.
+This template repository is the starter project for the Programming in Science Winter 2025 Midterm Exam V1. Written in Python, and tested with Pytest.
 
 ### Question(s)
 
