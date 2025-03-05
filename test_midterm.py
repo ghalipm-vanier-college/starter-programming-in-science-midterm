@@ -1,3 +1,4 @@
+# DO NOT CHANGE THIS FILE, OR ZERO MARK WILL BE ASSIGNED.
 from Midterm import area_of_ellipse, sum_of_numbers, upper_left_triangle, hollow_left_parallelogram
 
 # Test Q1: area_of_ellipse
