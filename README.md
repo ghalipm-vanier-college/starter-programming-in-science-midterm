@@ -25,7 +25,7 @@ This template repository is the starter project for the Programming in Science M
   ```
 
 
-3. **Write a function `upper_left_triangle(n)` that returns a string representing a upper left triangle pattern of star space (`* `) with height `n`.**
+3. **Write a function `upper_left_triangle(n)` that returns a string representing a upper left triangle pattern of star-space (`* `) with height `n`.**
    - The height should be at least 3; otherwise, return: `"The triangle height should be at least 3."`
 
 
@@ -58,7 +58,7 @@ This template repository is the starter project for the Programming in Science M
     *
    ```
 
-4. **Write a function `hollow_left_parallelogram(n)` that returns a string representing a left leaning hollow parallelogram pattern of stars-space (`* `) with height `n`.**
+4. **Write a function `hollow_left_parallelogram(n)` that returns a string representing a left leaning hollow parallelogram pattern of star-space (`* `) with height `n`.**
    - The rows should be at least 3; otherwise, return: `"The parallelogram rows should be at least 3."`
    
    #### Example (n = 3):
