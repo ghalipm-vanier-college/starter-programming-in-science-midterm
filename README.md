@@ -35,14 +35,22 @@ This template repository is the starter project for the Programming in Science M
    ```
 
    #### Example (n = 3):
-   ```
+   ```python
+   upper_left_triangle(3)
+
+   # Output:
+   
     * * * 
     * * 
     *
    ```
 
    #### Example (n = 5):
-   ```
+   ```python
+   upper_left_triangle(5)
+
+   # Output:
+   
     * * * * * 
     * * * * 
     * * * 
@@ -54,18 +62,26 @@ This template repository is the starter project for the Programming in Science M
    - The rows should be at least 3; otherwise, return: `"The parallelogram rows should be at least 3."`
    
    #### Example (n = 3):
-   ```
-    * * * 
-     *   * 
-      * * *
+      ```python
+   hollow_left_parallelogram(3)
+
+   # Output:
+      
+       * * * 
+        *   * 
+         * * *
    ```
    #### Example (n = 4):
-   ```
-    * * * * 
-     *     * 
-      *     * 
-       * * * *
+      ```python
+      
+   hollow_left_parallelogram(4)
 
+   # Output:
+      
+       * * * * 
+        *     * 
+         *     * 
+          * * * *
    ```
 
 
